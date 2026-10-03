@@ -1,5 +1,6 @@
 Flask
 pycryptodome
 requests
+aiohttp
 protobuf
 PyJWT
