@@ -335,7 +335,7 @@ def guest_to_jwt():
           "region": result["region"],
           "open_Id": open_id,
           "Access_Token": access_token,
-          "jwt_yoken": result["token"],
+          "token": result["token"],
           "Platform_type_used": pt,
           "Ob_version": "OB55",
           "Client_Version": "1.132.1",
